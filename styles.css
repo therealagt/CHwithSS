@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+
+.box {
+    min-width: 500px;
+    
+}
+
+.box1 {
+    flex: 1;
+    flex-direction: row;
+    background-color: #1F2937;
+    font-family: 'Roboto', 'sans-serif';
+    color: white;
+    height: 400px;
+    
+}
